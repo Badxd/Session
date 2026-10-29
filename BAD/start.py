@@ -32,7 +32,7 @@ async def start(bot: Client, msg: Message):
                 ],
                 [
                     InlineKeyboardButton("🔸 sᴏᴜʀᴄᴇ 🔸", url="https://github.com/Badxd/Session"),
-                    InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/SonaliMusicBot")
+                    InlineKeyboardButton("▫️ᴜsᴇʀ ʙᴏᴛ▫️", url="https://t.me/PbxEliteBot")
                 ]                
             ]
         )
