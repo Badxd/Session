@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+.gitattributes
+*.pyc
+.env
+
+*.env
+.env.*
+.env.bak
+*.session
+*.session-journal
+bot_workspace/
+*.bak
